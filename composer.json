@@ -1,0 +1,47 @@
+{
+    "name": "ft/sets",
+    "description": "A lightweight flexible hashstable wrapper package for Sets",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "keywords": [
+        "set",
+        "data",
+        "structure",
+        "hashtable",
+        "sets",
+        "sorted",
+        "compare",
+        "comparable",
+        "unique"
+    ],
+    "authors": [
+        {
+            "name": "Freer",
+            "email": "support@davidfreer.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ft/reflection": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "FT\\Sets\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "FT\\Sets\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+        "test": [
+            "phpunit tests --verbose --colors"
+        ]
+    },
+    "minimum-stability": "stable"
+}
