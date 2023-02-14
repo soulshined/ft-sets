@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "33c232912281b511bc6b19ecc0749ef3",
+    "content-hash": "f3265b8107e836040a61f9a849a456d5",
     "packages": [
         {
             "name": "ft/reflection",
-            "version": "2.1",
+            "version": "2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/soulshined/ft-reflection.git",
-                "reference": "db7f5b108b912b3070c3f5666ea5ecf8ab3e0dc9"
+                "reference": "4bc6285eb82865011ca1948d0dbd2e0dd2e7b8f3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/soulshined/ft-reflection/zipball/db7f5b108b912b3070c3f5666ea5ecf8ab3e0dc9",
-                "reference": "db7f5b108b912b3070c3f5666ea5ecf8ab3e0dc9",
+                "url": "https://api.github.com/repos/soulshined/ft-reflection/zipball/4bc6285eb82865011ca1948d0dbd2e0dd2e7b8f3",
+                "reference": "4bc6285eb82865011ca1948d0dbd2e0dd2e7b8f3",
                 "shasum": ""
             },
             "require": {
@@ -53,9 +53,9 @@
             ],
             "support": {
                 "issues": "https://github.com/soulshined/ft-reflection/issues",
-                "source": "https://github.com/soulshined/ft-reflection/tree/2.1"
+                "source": "https://github.com/soulshined/ft-reflection/tree/2.2"
             },
-            "time": "2022-12-21T01:40:39+00:00"
+            "time": "2023-02-14T02:14:06+00:00"
         }
     ],
     "packages-dev": [
